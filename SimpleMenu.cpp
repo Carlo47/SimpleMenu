@@ -1,5 +1,5 @@
 /**
- * Sketch       MenuTest.cpp
+ * Sketch       SimpleMenu.cpp
  * Author       2020-04-14 Charles Geiser
  * 
  * Purpose      The example shows how to define a menu array and call 
